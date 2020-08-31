@@ -1,4 +1,4 @@
-# sensed
+# SENSED
 one-Shot lEaNning geSture rEcognition Dataset
 
 # Description
