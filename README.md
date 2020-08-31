@@ -1,3 +1,7 @@
+[//]: # (Image References)
+
+[image1]: https://raw.github.com/ounospanas/sensedn/master/all_symbols.png "symbols"
+
 # SENSED
 one-Shot lEaNning geSture rEcognition Dataset
 
@@ -12,7 +16,7 @@ All the files follow the same structure and contain 9 values in each row. The fi
 | test | $#€?!%*+= | 5 | 10 |
 | total|  | 35 | 46 |
 
-![all_symbols][image1]
+![symbols][image1]
 
 A sample of the symbols used in the dataset
 
