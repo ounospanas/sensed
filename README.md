@@ -7,7 +7,7 @@ All the files follow the same structure and contain 9 values in each row. The fi
 # Dataset Contents/Subjects
 |Set | Characters | No. Subjects | No. Subjects |
 | :---: | :---: | :---: | :---: |
-| training | A-Z | 25 | 226 |
+| training | A-Z | 25 | 26 |
 | validation | 0-9 | 5 | 10 |
 | test | $#€?!%*+= | 5 | 10 |
 | total|  | 35 | 46 |
