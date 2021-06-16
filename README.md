@@ -20,5 +20,5 @@ All the files follow the same structure and contain 9 values in each row. The fi
 
 A sample of the symbols used in the dataset.
 
-### Ack
-This research is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational <<Programme Human Resources Development, Education and Lifelong Learning 2014-2020>> in the context of the project “On applying Deep Learning techniques to insufficient labeled sensor data for gesture recognition” (MIS 5050324).
+### Acknowledgement
+This research is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme <<Human Resources Development, Education and Lifelong Learning 2014-2020>> in the context of the project “On applying Deep Learning techniques to insufficient labeled sensor data for gesture recognition” (MIS 5050324).
